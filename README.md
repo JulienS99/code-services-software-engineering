@@ -1,6 +1,6 @@
 # Localisation of an application and website. Guide using springboot MessageSource.
 
-# In the resource folder of the project. Create a new folder with the name of Messages. Inside this folder, create a message.properties file. Include in this file all the keys in a format of:
+## In the resource folder of the project. Create a new folder with the name of Messages. Inside this folder, create a message.properties file. Include in this file all the keys in a format of:
 # thekeythatwillbecalled=thevalueofthekey.
 
 
