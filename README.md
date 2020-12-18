@@ -1,3 +1,4 @@
 # code-services-software-engineering
 
-# Localisation of an application and website, guide using springboot application.
+# Under this branch:
+# - Localisation of a springboot app using MessageSource
